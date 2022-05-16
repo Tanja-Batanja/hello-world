@@ -1,0 +1,7 @@
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\bin\Debug\Зубчатый массив.exe.config
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\bin\Debug\Зубчатый массив.exe
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\bin\Debug\Зубчатый массив.pdb
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\obj\Debug\Зубчатый массив.csproj.AssemblyReference.cache
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\obj\Debug\Зубчатый массив.csproj.CoreCompileInputs.cache
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\obj\Debug\Зубчатый массив.exe
+C:\Users\79045\source\C#\9 Многомерные массивы\Зубчатый массив\obj\Debug\Зубчатый массив.pdb
